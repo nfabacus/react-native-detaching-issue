@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="expolib_v1.com.facebook.fresco:expolib_v1-imagepipeline-okhttp3-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/4362ab0b2cf7e4b132b2e36c596329a47cff4fdf/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/4362ab0b2cf7e4b132b2e36c596329a47cff4fdf/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

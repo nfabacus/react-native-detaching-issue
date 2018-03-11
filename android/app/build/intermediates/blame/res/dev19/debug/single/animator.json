@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_right_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\07d9e0f64980d9cac6192a618ff4aab52fb54789\\output\\res\\animator\\card_flip_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_left_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\07d9e0f64980d9cac6192a618ff4aab52fb54789\\output\\res\\animator\\card_flip_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_right_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\07d9e0f64980d9cac6192a618ff4aab52fb54789\\output\\res\\animator\\card_flip_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\animator\\card_flip_left_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\07d9e0f64980d9cac6192a618ff4aab52fb54789\\output\\res\\animator\\card_flip_left_out.xml"
+    }
+]

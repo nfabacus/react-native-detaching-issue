@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\stub_classic.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\07d9e0f64980d9cac6192a618ff4aab52fb54789\\output\\res\\xml\\stub_classic.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\07d9e0f64980d9cac6192a618ff4aab52fb54789\\output\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\93739e8c307afd136095f0fcc5d7a00d47c17452\\output\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\global_tracker.xml",
+        "source": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\generated\\res\\google-services\\dev19\\debug\\xml\\global_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\stub_material.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\07d9e0f64980d9cac6192a618ff4aab52fb54789\\output\\res\\xml\\stub_material.xml"
+    }
+]

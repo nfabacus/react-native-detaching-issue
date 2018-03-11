@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\93739e8c307afd136095f0fcc5d7a00d47c17452\\output\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\173cfbfbed1081e676c916c223ebdddf15e15936\\output\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\173cfbfbed1081e676c916c223ebdddf15e15936\\output\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\93739e8c307afd136095f0fcc5d7a00d47c17452\\output\\res\\anim\\catalyst_slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\173cfbfbed1081e676c916c223ebdddf15e15936\\output\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\93739e8c307afd136095f0fcc5d7a00d47c17452\\output\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\93739e8c307afd136095f0fcc5d7a00d47c17452\\output\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\cycle.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\e5c137a736b11c49597a034a59758ff1c205c1aa\\output\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\shake.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\e5c137a736b11c49597a034a59758ff1c205c1aa\\output\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\93739e8c307afd136095f0fcc5d7a00d47c17452\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\173cfbfbed1081e676c916c223ebdddf15e15936\\output\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\93739e8c307afd136095f0fcc5d7a00d47c17452\\output\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\react-native-pdf\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_popup_exit.xml"
+    }
+]
