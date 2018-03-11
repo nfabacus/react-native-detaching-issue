@@ -1,11 +1,12 @@
 # issue of detaching Expo app to ExpoKit
 
-This project was bootstrapped with Create React Native App.
+This project was bootstrapped with Create React Native App, then detached from Expo to ExpoKit.
 
+## Here is the forum thread of my issue.
 https://forums.expo.io/t/correct-way-to-publish-detached-app/2052/14?u=nfabacus
 
 ## Issue: after detaching, newly-linked libraries cannot be used
-
+Please read the thread in the forum above.
 error:
 ```
 [Unhandled promise rejection: TypeError: undefined is not an object (evaluating '_reactNativeHtmlToPdf2.default.convert')]
